@@ -1,1 +1,2 @@
-curGit
+# curGit
+nuevos poderes
